@@ -1,4 +1,8 @@
 good morning 
 devops
+<<<<<<< HEAD
 git class 
 devops class
+=======
+git classes
+>>>>>>> bugfix
